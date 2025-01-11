@@ -5,5 +5,5 @@ nurlanmusayev.onrender.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Phyton,JAVA,C
 -->
