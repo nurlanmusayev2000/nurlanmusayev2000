@@ -1,6 +1,6 @@
 # Hi, I'm Nurlan 👋
 
-**Frontend Developer · React · TypeScript**
+**Software Engineer · React · TypeScript · Node.js**
 Sumqayit, Azerbaijan · Open to remote and relocation
 
 I build responsive, data-heavy web interfaces with React and TypeScript. Most recently I was a Junior Software Engineer at **EPAM Systems**, working on a restaurant management platform. Before that I was a Front-End Developer Intern at **Kapital Bank**, where I built UI modules for an internal CRM system: data tables, forms, and REST API integrations.
